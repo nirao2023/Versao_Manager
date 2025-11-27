@@ -1,0 +1,17 @@
+.git_old/
+.gitignore.swp
+.vagrant/
+Dockerfiledb
+Dockerfilenginx
+Dockerfileweb
+Vagrantfile
+ansible/
+backup/
+db/
+docker-compose.yml
+hosts
+installdocker.yml
+installjenkins.yml
+nginx/
+web/
+
